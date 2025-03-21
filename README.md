@@ -1,4 +1,4 @@
-## Bonjour 👋 I'm Carole Ibrahim  
+## Bonjour 👋 
 
 🔆 I am an **AI Engineer at [pass Culture](https://pass.culture.fr/)**, a platform that promotes access to culture by providing financial aid for young people in France to discover books, concerts, museums, and more!  
 
@@ -8,9 +8,11 @@
   - 📊 **Determinantal Point Processes** (in collaboration with INRIA researchers)  
   - 🤖 **AI agents**  
 
-🔓 Check out our **open-source work**: <a href="[https://github.com/CaroleYoussef](https://github.com/pass-culture)" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a> 
+👐 Check out our **open-source work**:
+
+<a href="https://github.com/pass-culture" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
 ---
 
